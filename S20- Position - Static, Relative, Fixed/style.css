@@ -1,0 +1,160 @@
+.title{
+    display: inline-block;
+}
+
+img{
+    width: 300px;
+}
+#indiaBody{
+    border-color: tomato;
+}
+#IPL{
+    background-color: darkblue;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+#kohli{
+    position: relative;
+    left: 200px;
+    z-index: 19;
+}
+#pant{
+    position: relative;
+    right: 100px;
+    z-index: 16;
+}
+#dhoni{
+    position: relative;
+    z-index: 20;
+}
+#rohit{
+    position: relative;
+    bottom: 304px;
+    left: 400px;
+    z-index: 18;
+}
+#dhawan{
+    position: relative;
+    bottom: 304px;
+    z-index: 14;
+}
+#kl{
+    position: relative;
+    left: 400px;
+    z-index: 17;
+}
+#samson{
+    position: relative;
+    bottom: 304px;
+    right: 310px;
+    z-index: 15;
+}
+#iyer{
+    position: relative;
+    bottom: 608px;
+    left: 200px;
+    z-index: 13;
+}
+#gill{
+    position: relative;
+    bottom: 608px;
+    left: 700px;
+    z-index: 12;
+}
+#bhuv{
+    position: relative;
+    bottom: 305px;
+    left: 100px;
+}
+#BCCI{
+    width: 60px;
+    position: fixed;
+}
+#IPLlogo{
+    width: 100px;
+    position: fixed;
+    right: 0px;
+}
+#kalkiHeading{
+    background-color: rgb(105, 21, 6);
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#amitabh{
+    width: 500px;
+     position: relative;
+     left:450px;
+     top: 140px;
+     z-index: 19;
+}
+#prabhass{
+    width: 500px;
+position: relative;
+right: 300px;
+z-index: 20;
+}
+#desha{
+    height: 500px;
+    position: relative;
+    bottom: 480px;
+    left: 870px;
+    
+}
+#depika{
+    width: 400px;
+    position: relative;
+    right: 100px;
+    bottom: 310px;
+    left: 170px;
+}
+#kalki{
+    background-color: rgb(40, 2, 2);
+}
+
+#prabhas{
+    width: 300px;
+    position: relative;
+    left: 10px;
+    z-index: 11;
+}
+#katappa{
+    position: relative;
+    bottom: 870px;
+    height: 470px;
+    left: 730px;
+}
+#ramyakrishna{
+    position: relative;
+    bottom: 400px;
+    right: 350px;
+}
+#rana{
+    width: 600px;
+    position: relative;
+    left: 150px;
+    z-index: 9;
+}
+#BahuBody{
+    background-color: rgb(48, 3, 3);
+}
+#bahuHeading{
+    background-color: sienna;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+#anushka{
+    width: 800px;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+    z-index: 10;
+}   
+#nasser{
+    position: relative;
+    bottom: 400px;
+    right: 220px;
+}
